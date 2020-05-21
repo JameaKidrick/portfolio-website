@@ -4214,3 +4214,7 @@ input, select, textarea {
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.project_titles {
+	font-weight: bold;
+}
